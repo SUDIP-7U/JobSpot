@@ -11,7 +11,7 @@ This app demonstrates a **ProfileFragment** that displays 5 sample projects, des
 - **CardView layouts** for project items
 
 
-## 📸 Home - Profile - Alert - Search Screen
+## 📸 Home - Profile - Alert - Search screen
 <img width="976" height="516" alt="Fragment" src="https://github.com/user-attachments/assets/00d25bda-d547-4b97-a37c-d5e87b8bdf30" />
 
 
