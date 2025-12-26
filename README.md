@@ -1,4 +1,4 @@
-# Job Spot 
+# JobSpot 
 
 An Android project built with **Kotlin + XML** to showcase clean UI, RecyclerView usage, and modern Android practices.  
 This app demonstrates a **ProfileFragment** that displays 5 sample projects, designed as a portfolio-style screen for job seekers.
