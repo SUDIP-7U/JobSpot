@@ -1,4 +1,4 @@
-package com.example.applicationui.data
+package com.example.applicationui.model
 
 data class Project(
     val title: String,

@@ -1,4 +1,4 @@
-package com.example.applicationui.adapter
+package com.example.applicationui.ui.alert
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,8 +6,8 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.applicationui.data.NotificationItem
 import com.example.applicationui.R
+import com.example.applicationui.model.NotificationItem
 
 class AlertAdapter(
     private val items: List<NotificationItem>

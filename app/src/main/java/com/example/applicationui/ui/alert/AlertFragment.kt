@@ -1,16 +1,15 @@
-package com.example.applicationui.ui
+package com.example.applicationui.ui.alert
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.applicationui.R
-import com.example.applicationui.adapter.AlertAdapter
-import com.example.applicationui.data.NotificationItem
-
+import com.example.applicationui.ui.alert.AlertAdapter
+import com.example.applicationui.model.NotificationItem
 
 class AlertFragment : Fragment() {
 
@@ -53,4 +52,3 @@ class AlertFragment : Fragment() {
         recyclerView.adapter = AlertAdapter(sampleData)
     }
 }
-

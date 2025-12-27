@@ -1,4 +1,4 @@
-package com.example.applicationui.adapter
+package com.example.applicationui.ui.search
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

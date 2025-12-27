@@ -1,4 +1,4 @@
-package com.example.applicationui.ui
+package com.example.applicationui.ui.profile
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,10 +6,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.applicationui.adapter.ShowcaseAdapter
-import com.example.applicationui.data.Project
+import com.example.applicationui.ui.profile.ShowcaseAdapter
 import com.example.applicationui.databinding.FragmentProfileBinding
-
+import com.example.applicationui.model.Project
 
 class ProfileFragment : Fragment() {
 

@@ -1,11 +1,10 @@
-package com.example.applicationui.adapter
+package com.example.applicationui.ui.home
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.applicationui.R
-
 
 class JobShowcaseAdapter(private val itemCount: Int = 5) :
     RecyclerView.Adapter<JobShowcaseAdapter.JobViewHolder>() {

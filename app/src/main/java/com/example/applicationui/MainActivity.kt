@@ -1,9 +1,12 @@
-package com.example.applicationui.ui
+package com.example.applicationui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
-import com.example.applicationui.R
+import com.example.applicationui.ui.alert.AlertFragment
+import com.example.applicationui.ui.home.HomeFragment
+import com.example.applicationui.ui.profile.ProfileFragment
+import com.example.applicationui.ui.search.SearchFragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class MainActivity : AppCompatActivity() {

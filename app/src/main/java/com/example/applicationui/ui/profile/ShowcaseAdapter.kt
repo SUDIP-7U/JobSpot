@@ -1,11 +1,10 @@
-package com.example.applicationui.adapter
+package com.example.applicationui.ui.profile
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.applicationui.data.Project
 import com.example.applicationui.databinding.ItemProjectBinding
-
+import com.example.applicationui.model.Project
 
 class ShowcaseAdapter(
     private val projects: List<Project>
